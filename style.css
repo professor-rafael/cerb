@@ -42,23 +42,30 @@ body{
 .escola-div-conteudo{
     width: 35;
 }
+
 .escola-titulo{
     padding: 24px 0;
 }
 
 .estudantes-imagem{
-    width: 150px;
+    width: 190px;
+    border: 3px solid red;
+    border-radius: 20px;
 }
+
 .estudantes-icone{
-    width: 25px;
+    width: 35px;
 }
+
 .estudantes-div{
     text-align: center;
 }
+
 .estudantes-titulo{
     text-align: center;
     padding: 50px 0;
 }
+
 .estudantes-todos{
     display: grid;
     grid-template-columns: 25% 25% 25% 25% 25%;
@@ -68,6 +75,7 @@ body{
     background-color: black;
     text-align: center;
 }
+
 .rodape-imagem{
     height: 60px;
     padding: 12px 0;
